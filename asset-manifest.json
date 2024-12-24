@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Shivam6388469930/Inotebookcloud/static/css/main.ac509782.css",
+    "main.js": "/Shivam6388469930/Inotebookcloud/static/js/main.603b90fe.js",
+    "index.html": "/Shivam6388469930/Inotebookcloud/index.html",
+    "main.ac509782.css.map": "/Shivam6388469930/Inotebookcloud/static/css/main.ac509782.css.map",
+    "main.603b90fe.js.map": "/Shivam6388469930/Inotebookcloud/static/js/main.603b90fe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac509782.css",
+    "static/js/main.603b90fe.js"
+  ]
+}
