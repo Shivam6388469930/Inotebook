@@ -8,7 +8,7 @@ const Home = () => {
 
   return (
 
-      <div>
+      <div className='bg-dark text-white'>
        
       <NoteState>
         <NotesCollection />

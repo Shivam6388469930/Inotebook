@@ -16,7 +16,7 @@ const NoteItem = (props) => {
 
             <h5 className="card-title ">{ note.title }</h5>
             <p className="card-text ">{ note.description }</p>
-            <p className={`card-tag bg-secondary card-tag-${color}`}>{ `TAG-${note.tag}` }</p>
+            <p className={`card-tag  card-tag-${color}`}>{ `TAG-${note.tag}` }</p>
             <i className="fa fa-trash me-3" aria-hidden="true" onClick={ () => deleteNote(note._id) }></i>
             <i className="fa fa-pencil" aria-hidden="true" onClick={ () => updateNote(note) }></i>
           </div>

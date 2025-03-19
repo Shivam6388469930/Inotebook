@@ -61,6 +61,7 @@ const NoteState = (props) => {
       body: JSON.stringify({ title, description, tag }),
     });
     const updatedNote = await response.json(); // Get updated note
+    console.log(updatedNote);
 
     // Update the state with the edited note
     const newNotes = notes.map((note) =>
